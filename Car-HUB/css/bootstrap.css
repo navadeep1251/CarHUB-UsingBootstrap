@@ -6757,4 +6757,535 @@ button.close {
     display: none !important;
   }
 }
+
+#merc1 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#merc1:hover .text {
+visibility:visible;
+}
+
+#merc2 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#merc2:hover .text {
+visibility:visible;
+}
+
+#merc3 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#merc3:hover .text {
+visibility:visible;
+}
+
+#merc4 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#merc4:hover .text {
+visibility:visible;
+}
+
+#merc5 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#merc5:hover .text {
+visibility:visible;
+}
+
+#merc6 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#merc6:hover .text {
+visibility:visible;
+}
+
+#merc7 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#merc7:hover .text {
+visibility:visible;
+}
+
+#merc8 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#merc8:hover .text {
+visibility:visible;
+}
+
+#merc9 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#merc9:hover .text {
+visibility:visible;
+}
+
+#merc10 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#merc10:hover .text {
+visibility:visible;
+}
+
+#merc11 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#merc11:hover .text {
+visibility:visible;
+}
+
+#merc12 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#merc12:hover .text {
+visibility:visible;
+}
+
+#bmw1 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#bmw1:hover .text {
+visibility:visible;
+}
+
+#bmw2 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#bmw2:hover .text {
+visibility:visible;
+}
+
+#bmw3 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#bmw3:hover .text {
+visibility:visible;
+}
+
+#bmw4 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#bmw4:hover .text {
+visibility:visible;
+}
+
+#bmw5 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#bmw5:hover .text {
+visibility:visible;
+}
+
+#bmw6 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#bmw6:hover .text {
+visibility:visible;
+}
+
+#bmw7 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#bmw7:hover .text {
+visibility:visible;
+}
+
+#bmw8 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#bmw8:hover .text {
+visibility:visible;
+}
+
+#bmw9 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#bmw9:hover .text {
+visibility:visible;
+}
+
+#bmw10 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#bmw10:hover .text {
+visibility:visible;
+}
+
+#bmw11 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#bmw11:hover .text {
+visibility:visible;
+}
+
+#bmw12 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#bmw12:hover .text {
+visibility:visible;
+}
+
+#ford1 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#ford1:hover .text {
+visibility:visible;
+}
+
+#ford2 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#ford2:hover .text {
+visibility:visible;
+}
+
+#ford3 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#ford3:hover .text {
+visibility:visible;
+}
+
+#ford4 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#ford4:hover .text {
+visibility:visible;
+}
+
+#ford5 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#ford5:hover .text {
+visibility:visible;
+}
+
+#ford6 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#ford6:hover .text {
+visibility:visible;
+}
+
+#ford7 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#ford7:hover .text {
+visibility:visible;
+}
+
+#ford8 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#ford8:hover .text {
+visibility:visible;
+}
+
+#ford9 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#ford9:hover .text {
+visibility:visible;
+}
+
+#ford10 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#ford10:hover .text {
+visibility:visible;
+}
+
+#ford11 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#ford11:hover .text {
+visibility:visible;
+}
+
+#ford12 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#ford12:hover .text {
+visibility:visible;
+}
+
+#jag1 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#jag1:hover .text {
+visibility:visible;
+}
+
+#jag2 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#jag2:hover .text {
+visibility:visible;
+}
+
+#jag3 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#jag3:hover .text {
+visibility:visible;
+}
+
+#jag4 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#jag4:hover .text {
+visibility:visible;
+}
+
+#jag5 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#jag5:hover .text {
+visibility:visible;
+}
+
+#jag6 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#jag6:hover .text {
+visibility:visible;
+}
+
+#jag7 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#jag7:hover .text {
+visibility:visible;
+}
+
+#jag8 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#jag8:hover .text {
+visibility:visible;
+}
+
+
+
+#jag9 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#jag9:hover .text {
+visibility:visible;
+}
+
+#jag10 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#jag10:hover .text {
+visibility:visible;
+}
+
+#jag11 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#jag11:hover .text {
+visibility:visible;
+}
+
+#jag12 .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#jag12:hover .text {
+visibility:visible;
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
